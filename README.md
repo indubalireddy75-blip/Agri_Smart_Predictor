@@ -4,7 +4,7 @@
 
 This is an End-to-End Machine Learning project designed to help farmers optimize their harvest. By analyzing soil composition and environmental factors, the system recommends the most suitable crop to plant, reducing risk and increasing yield.
 
-Live Demo:https://agrismartpredictor-pjcluteqwhgdyvvcl8qbqe.streamlit.app
+Live Demo:https://agrismartpredictor-ayeycm9kizzmbfxuhm99gv.streamlit.app
 
 🚀 Features
 
